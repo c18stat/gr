@@ -1,7 +1,7 @@
 ---
 author: c18stat
 title: macintosh
-image_url: images/Macintosh Plus.jpg
+image_url: images/Macintosh.jpg
 caption: macintosh
 license_url: https://www.flickr.com/photos/raneko/13507923223
 license_text: viewning privacy public
